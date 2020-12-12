@@ -1,0 +1,25 @@
+{
+  "name": "video-screenshot-taker",
+  "version": "1.0.0",
+  "description": "simple video snapshot taker client side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonderCircle/video-screenshot-taker.git"
+  },
+  "keywords": [
+    "video",
+    "snapshot",
+    "module",
+    "client"
+  ],
+  "author": "wonderCircle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wonderCircle/video-screenshot-taker/issues"
+  },
+  "homepage": "https://github.com/wonderCircle/video-screenshot-taker#readme"
+}
